@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>CursorMate Updates</title>
+        <link>https://github.com/Conor-711/For_Release/releases</link>
+        <description>Most recent updates to CursorMate</description>
+        <language>en</language>
+        
+        <!-- Current Version v1.1.0 -->
+        <item>
+            <title>Version 1.1.0</title>
+            <description><![CDATA[
+                <h2>CursorMate v1.1.0</h2>
+                <h3>🔍 Enhanced Diagnostics</h3>
+                <ul>
+                    <li>New Enhanced Diagnostic tool for troubleshooting shortcut/ending symbol issues</li>
+                    <li>8-second delayed diagnostic - switch to any app's text field for accurate testing</li>
+                    <li>12-point comprehensive diagnosis including AX API deep test</li>
+                    <li>Detailed element tree visualization</li>
+                    <li>Automatic fix recommendations</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 02 Dec 2025 18:00:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/Conor-711/For_Release/releases/download/v1.1.0/CursorMate_Installer.dmg"
+                sparkle:version="2"
+                sparkle:shortVersionString="1.1.0"
+                length="5767634"
+                type="application/octet-stream"
+                sparkle:edSignature="KdiuAOqJoUcgFsdBs0Doyb+fhCXw0O3lMGKtBTE9/vEM9r4bMQ7YbzfDe+6AnkH6ThvZVS4dqXiF3qgYHU+LBA=="
+            />
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+        </item>
+        
+        <!-- Previous Version v0.1.8 -->
+        <item>
+            <title>Version 0.1.8</title>
+            <description><![CDATA[
+                <h2>CursorMate v0.1.8</h2>
+                <ul>
+                    <li>Initial Sparkle auto-update support</li>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 02 Dec 2025 12:00:00 +0800</pubDate>
+            <enclosure 
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.8/CursorMate_Installer.dmg"
+                sparkle:version="8"
+                sparkle:shortVersionString="0.1.8"
+                length="3583458"
+                type="application/octet-stream"
+                sparkle:edSignature="cc/RPQSw1kBEk+DcfuQGULbHNk8zhyJDixVeuZcGCSW1uOsE+alMrPH9Gkq5URkTmY/AjW7+airseQsBojlTCA=="
+            />
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+        </item>
+        
+    </channel>
+</rss>
