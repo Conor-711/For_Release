@@ -25,9 +25,9 @@
                 url="https://github.com/Conor-711/For_Release/releases/download/v1.1.0/CursorMate_Installer.dmg"
                 sparkle:version="2"
                 sparkle:shortVersionString="1.1.0"
-                length="5767662"
+                length="5770433"
                 type="application/octet-stream"
-                sparkle:edSignature="It8KyPciZs4/YAGxORo8DV7BAa2t9hDPaP4HASxipxcj7O+0V2y4jn4o6ahhRnoEjYCyos5p9CXhZF2eKLmkDA=="
+                sparkle:edSignature="H5lU2tLm1cI4GiAKH1+BWWPIi2qcWFuWySTSBlnpxmY2H0lBiHmsDZCXt6WHvnRX6RCkrUbPfWB+Dt6LAPHhCA=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
