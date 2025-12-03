@@ -11,53 +11,19 @@
             <title>Version 1.1.0</title>
             <description><![CDATA[
                 <h2>CursorMate v1.1.0</h2>
-                <h3>🚀 新功能</h3>
                 <ul>
-                    <li>新增多平台新闻聚合功能 (Hacker News, Polymarket, Substack, Product Hunt)</li>
-                    <li>支持多平台同时聚合，生成统一分析报告</li>
-                </ul>
-                <h3>🔧 改进</h3>
-                <ul>
-                    <li>优化 ESC 键取消功能，支持恢复原文</li>
-                    <li>改进流式文本注入的 Electron 应用兼容性</li>
-                    <li>增强诊断工具，支持 12 项全面诊断</li>
-                </ul>
-                <h3>🐛 修复</h3>
-                <ul>
-                    <li>修复 Cursor IDE 中 AX API 设置文本后验证失败的问题</li>
-                    <li>Bug fixes and performance improvements</li>
+                    <li>1.针对浏览器进行了专门优化</li>
+                    <li>2.增加了检测权限后重启应用的功能</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 03 Dec 2025 19:03:00 +0800</pubDate>
+            <pubDate>Wed, 03 Dec 2025 20:25:49 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.4/CursorMate_Installer.dmg"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.5/CursorMate_Installer.dmg"
                 sparkle:version="11"
                 sparkle:shortVersionString="1.1.0"
-                length="6223595"
+                length="6250392"
                 type="application/octet-stream"
-                sparkle:edSignature="DeSPZr7Css+A9d/8mZ/FrLVgzq0MNx1gsgO6ZZSiCWF1EfHsPdfCcOm7AWNbzwxBKbMdtYnXCV8a76lNWI6JCw=="
-            />
-            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-        </item>
-        
-        <!-- Previous Version v0.1.8 -->
-        <item>
-            <title>Version 0.1.8</title>
-            <description><![CDATA[
-                <h2>CursorMate v0.1.8</h2>
-                <ul>
-                    <li>Initial Sparkle auto-update support</li>
-                    <li>Bug fixes and improvements</li>
-                </ul>
-            ]]></description>
-            <pubDate>Mon, 02 Dec 2025 12:00:00 +0800</pubDate>
-            <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.8/CursorMate_Installer.dmg"
-                sparkle:version="8"
-                sparkle:shortVersionString="0.1.8"
-                length="3583458"
-                type="application/octet-stream"
-                sparkle:edSignature="cc/RPQSw1kBEk+DcfuQGULbHNk8zhyJDixVeuZcGCSW1uOsE+alMrPH9Gkq5URkTmY/AjW7+airseQsBojlTCA=="
+                sparkle:edSignature="JFN1QioT5BgXsea+P+TZEenLNSbtVQ2R8LIuZJHQYLHNy0EcNog+5EpA2Rga9sogSU4LlEd1+nwUz1f6NbjZAA=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
