@@ -12,18 +12,17 @@
             <description><![CDATA[
                 <h2>CursorMate v1.1.0</h2>
                 <ul>
-                    <li>1.针对浏览器进行了专门优化</li>
-                    <li>2.增加了检测权限后重启应用的功能</li>
+                    <li>1.对不同 macOS 首次兼容</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 03 Dec 2025 20:25:49 +0800</pubDate>
+            <pubDate>Thu, 04 Dec 2025 02:48:22 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.5/CursorMate_Installer.dmg"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.6/CursorMate_Installer.dmg"
                 sparkle:version="11"
                 sparkle:shortVersionString="1.1.0"
-                length="6250392"
+                length="6303097"
                 type="application/octet-stream"
-                sparkle:edSignature="JFN1QioT5BgXsea+P+TZEenLNSbtVQ2R8LIuZJHQYLHNy0EcNog+5EpA2Rga9sogSU4LlEd1+nwUz1f6NbjZAA=="
+                sparkle:edSignature="uA/EVKhsfhYZIF3I8+s3/AkY2839XsjE/9LxsqbatLcrVpHDcdggPpKO8LFX/6wWYNSaKqRr6eiEppBl8C/ADg=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
