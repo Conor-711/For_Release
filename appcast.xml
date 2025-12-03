@@ -6,28 +6,36 @@
         <description>Most recent updates to CursorMate</description>
         <language>en</language>
         
-        <!-- Current Version v1.1.0 -->
+        <!-- Current Version v1.1.0 Build 11 -->
         <item>
             <title>Version 1.1.0</title>
             <description><![CDATA[
                 <h2>CursorMate v1.1.0</h2>
-                <h3>🔍 Enhanced Diagnostics</h3>
+                <h3>🚀 新功能</h3>
                 <ul>
-                    <li>New Enhanced Diagnostic tool for troubleshooting shortcut/ending symbol issues</li>
-                    <li>8-second delayed diagnostic - switch to any app's text field for accurate testing</li>
-                    <li>12-point comprehensive diagnosis including AX API deep test</li>
-                    <li>Detailed element tree visualization</li>
-                    <li>Automatic fix recommendations</li>
+                    <li>新增多平台新闻聚合功能 (Hacker News, Polymarket, Substack, Product Hunt)</li>
+                    <li>支持多平台同时聚合，生成统一分析报告</li>
+                </ul>
+                <h3>🔧 改进</h3>
+                <ul>
+                    <li>优化 ESC 键取消功能，支持恢复原文</li>
+                    <li>改进流式文本注入的 Electron 应用兼容性</li>
+                    <li>增强诊断工具，支持 12 项全面诊断</li>
+                </ul>
+                <h3>🐛 修复</h3>
+                <ul>
+                    <li>修复 Cursor IDE 中 AX API 设置文本后验证失败的问题</li>
+                    <li>Bug fixes and performance improvements</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 02 Dec 2025 18:00:00 +0800</pubDate>
+            <pubDate>Wed, 03 Dec 2025 19:03:00 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v1.1.0/CursorMate_Installer.dmg"
-                sparkle:version="2"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.4/CursorMate_Installer.dmg"
+                sparkle:version="11"
                 sparkle:shortVersionString="1.1.0"
-                length="5770433"
+                length="6223595"
                 type="application/octet-stream"
-                sparkle:edSignature="H5lU2tLm1cI4GiAKH1+BWWPIi2qcWFuWySTSBlnpxmY2H0lBiHmsDZCXt6WHvnRX6RCkrUbPfWB+Dt6LAPHhCA=="
+                sparkle:edSignature="DeSPZr7Css+A9d/8mZ/FrLVgzq0MNx1gsgO6ZZSiCWF1EfHsPdfCcOm7AWNbzwxBKbMdtYnXCV8a76lNWI6JCw=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
