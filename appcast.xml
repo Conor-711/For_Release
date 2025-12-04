@@ -12,17 +12,18 @@
             <description><![CDATA[
                 <h2>CursorMate v1.1.0</h2>
                 <ul>
-                    <li>1.修复有electron 应用无法成功使用功能的bug</li>
+                    <li>1.增加了快捷方式适配应用的能</li>
+                    <li>2.增加了快捷方式检测冲突的功能</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 04 Dec 2025 16:23:55 +0800</pubDate>
+            <pubDate>Thu, 04 Dec 2025 19:47:33 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.7/CursorMate_Installer.dmg"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.8/CursorMate_Installer.dmg"
                 sparkle:version="11"
                 sparkle:shortVersionString="1.1.0"
-                length="6321114"
+                length="6381849"
                 type="application/octet-stream"
-                sparkle:edSignature="I7AtzXTAuQCkCHVo4dyw/E43wwzSIA2ZNDY3qXN3eZsc/KKAyfgqQ8/nZ4tZIMX3MOeEYgOOi+u5iNiQaH8tAQ=="
+                sparkle:edSignature="iY9KNCNKZEofyCxWdx5XL9P6IeT6hZkcS3k6VvPDeoEYKmUZq0UDlh5oV45tRAzGM0tT/awBh9CaACXfm8tgCg=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
