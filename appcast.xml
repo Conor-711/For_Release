@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>CursorMate Updates</title>
+        <title>ShipIt Updates</title>
         <link>https://github.com/Conor-711/For_Release/releases</link>
-        <description>Most recent updates to CursorMate</description>
+        <description>Most recent updates to ShipIt</description>
         <language>en</language>
         
         <!-- Current Version v1.1.0 Build 11 -->
         <item>
             <title>Version 1.1.0</title>
             <description><![CDATA[
-                <h2>CursorMate v1.1.0</h2>
+                <h2>ShipIt v1.1.0</h2>
                 <ul>
-                    <li>1.增加了快捷方式适配应用的能</li>
-                    <li>2.增加了快捷方式检测冲突的功能</li>
+                    <li>1.增加了划文本优化功能</li>
+                    <li>2.恢复了 Google 登录与 Supabase 集成</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 04 Dec 2025 19:47:33 +0800</pubDate>
+            <pubDate>Fri, 05 Dec 2025 12:50:30 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.8/CursorMate_Installer.dmg"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.1.9/ShipIt_Installer.dmg"
                 sparkle:version="11"
                 sparkle:shortVersionString="1.1.0"
-                length="6381849"
+                length="6627356"
                 type="application/octet-stream"
-                sparkle:edSignature="iY9KNCNKZEofyCxWdx5XL9P6IeT6hZkcS3k6VvPDeoEYKmUZq0UDlh5oV45tRAzGM0tT/awBh9CaACXfm8tgCg=="
+                sparkle:edSignature="FMRhXdZcX8cz76QLM4fgklaiRDsyCVKYvykYkenIzbB5W/I41GcLLfT7g4OI3O1VVHUkQdUK2unOMKqKhVB6AA=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
