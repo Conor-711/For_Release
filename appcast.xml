@@ -12,19 +12,18 @@
             <description><![CDATA[
                 <h2>ShipIt v1.1.0</h2>
                 <ul>
-                    <li>1.更新了 logo</li>
-                    <li>数实模板</li>
-                    <li> 3.更折叠状态</li>
+                    <li>1.Rebranding</li>
+                    <li>2.上线支付</li>
                 </ul>
             ]]></description>
-            <pubDate>Fri, 05 Dec 2025 19:08:17 +0800</pubDate>
+            <pubDate>Mon, 08 Dec 2025 12:34:37 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.2.0/ShipIt_Installer.dmg"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.2.1/ShipIt_Installer.dmg"
                 sparkle:version="11"
                 sparkle:shortVersionString="1.1.0"
-                length="6920463"
+                length="5345058"
                 type="application/octet-stream"
-                sparkle:edSignature="tJRTJlcTvl487idboPpLweNI5vWGZzJybgUJHbhVWzZifim/XxKDWdVvhCJUMm1cbYaZaS/mld+Fmtwx1yK/Dg=="
+                sparkle:edSignature="swVJTqoPXYwkCk/CzZvD2V50KuFrx42PLxlFAg+FadyOPK92rPtxvBkQsqvvs9i2TaWFweMII6ApXPKhzKe8Cg=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
