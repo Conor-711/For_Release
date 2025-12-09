@@ -6,24 +6,24 @@
         <description>Most recent updates to ShipIt</description>
         <language>en</language>
         
-        <!-- Current Version v1.1.0 Build 11 -->
+        <!-- Current Version v0.2.3 Build 13 -->
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 0.2.3</title>
             <description><![CDATA[
-                <h2>ShipIt v1.1.0</h2>
+                <h2>ShipIt v0.2.3</h2>
                 <ul>
-                    <li>1.增了Apple登录功能</li>
-                    <li>2.重构了shortcut的架构</li>
+                    <li>1.增加了Apple登录</li>
+                    <li>2.重构了Shortcuts系统</li>
                 </ul>
             ]]></description>
-            <pubDate>Tue, 09 Dec 2025 17:56:10 +0800</pubDate>
+            <pubDate>Tue, 09 Dec 2025 18:09:29 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.2.2/ShipIt_Installer.dmg"
-                sparkle:version="11"
-                sparkle:shortVersionString="1.1.0"
-                length="4406584"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.2.3/ShipIt_Installer.dmg"
+                sparkle:version="13"
+                sparkle:shortVersionString="0.2.3"
+                length="4406545"
                 type="application/octet-stream"
-                sparkle:edSignature="WCTNURj9H3xvQQKH/+DEZv8jlpziTVNqGqGmLC0OvpUECajFmWctPq2rAEeegbKfSjbTN98qityJWMJkrzplCA=="
+                sparkle:edSignature="a26hqBIzSfsXYa0/fKkmQQvGhOCYoOOqB268jLoQQVRttq/CbAIwru/JvxUr9plucCFfsLdFgL/CXfTHDUpXBg=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
