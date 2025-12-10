@@ -6,23 +6,23 @@
         <description>Most recent updates to ShipIt</description>
         <language>en</language>
         
-        <!-- Current Version v0.2.4 Build 14 -->
+        <!-- Current Version v0.2.5 Build 15 -->
         <item>
-            <title>Version 0.2.4</title>
+            <title>Version 0.2.5</title>
             <description><![CDATA[
-                <h2>ShipIt v0.2.4</h2>
+                <h2>ShipIt v0.2.5</h2>
                 <ul>
-                    <li>1.更新了credits和test mode下的支付</li>
+                    <li>1.更新了若干支付相关的bug</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 10 Dec 2025 15:03:12 +0800</pubDate>
+            <pubDate>Wed, 10 Dec 2025 15:43:43 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.2.4/ShipIt_Installer.dmg"
-                sparkle:version="14"
-                sparkle:shortVersionString="0.2.4"
-                length="4732445"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.2.5/ShipIt_Installer.dmg"
+                sparkle:version="15"
+                sparkle:shortVersionString="0.2.5"
+                length="4737552"
                 type="application/octet-stream"
-                sparkle:edSignature="hwSK5Kqm2IRBgHQ6cFb4YW6qbjT9K21V7mJAsbtoVxSRSYmMnQ8kTOWvxMPjvvwzlsDsRjX2CgxEEiyDyjx2DQ=="
+                sparkle:edSignature="M4leBHSlB0RR4rCAaYGC6Ja027ALZBfUUxE2NvndCnNfd21DddQjwpFB/iKZLEPAq9w0ZNOhMWxqJ7+O+SEgBA=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
