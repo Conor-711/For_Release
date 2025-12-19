@@ -6,23 +6,23 @@
         <description>Most recent updates to ShipIt</description>
         <language>en</language>
         
-        <!-- Current Version v0.3.0 Build 20 -->
+        <!-- Current Version v0.3.2 Build 22 -->
         <item>
-            <title>Version 0.3.0</title>
+            <title>Version 0.3.2</title>
             <description><![CDATA[
-                <h2>ShipIt v0.3.0</h2>
+                <h2>ShipIt v0.3.2</h2>
                 <ul>
                     <li>1.更新了若干内容</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 15 Dec 2025 10:56:04 +0800</pubDate>
+            <pubDate>Fri, 19 Dec 2025 20:52:22 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v0.3.0/ShipIt_Installer.dmg"
-                sparkle:version="20"
-                sparkle:shortVersionString="0.3.0"
-                length="6216431"
+                url="https://github.com/Conor-711/For_Release/releases/download/v0.3.2/ShipIt_Installer.dmg"
+                sparkle:version="22"
+                sparkle:shortVersionString="0.3.2"
+                length="6510712"
                 type="application/octet-stream"
-                sparkle:edSignature="T5N+h5gHCQrCaHDLXhY5GEGeq9IKThDglpjGTfO5HfFub9g/GscFrMsUX6XlQ/jyeGXbQNcaAmdOZfIFXqLtCQ=="
+                sparkle:edSignature="z4iMVLN6q6Q1+XLOCulF0rg8O7qa4NE7DclDej/9zOrYyh3ftvzJL/PSt1syldZ5zmvJq8CYwE78yygSXxQiDw=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
