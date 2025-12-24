@@ -6,23 +6,23 @@
         <description>Most recent updates to ShipIt</description>
         <language>en</language>
         
-        <!-- Current Version v1.0.0 Build 24 -->
+        <!-- Current Version v1.0.1 Build 25 -->
         <item>
-            <title>Version 1.0.0</title>
+            <title>Version 1.0.1</title>
             <description><![CDATA[
-                <h2>ShipIt v1.0.0</h2>
+                <h2>ShipIt v1.0.1</h2>
                 <ul>
-                    <li>修复了微信的兼容性问题，现在你可以通过cmd+a+tab的方式来触发ai流程</li>
+                    <li>1了微信无法使用的问题，现在你可以通过cmd+a+tab来触发的功能流程</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 24 Dec 2025 11:06:30 +0800</pubDate>
+            <pubDate>Wed, 24 Dec 2025 12:37:49 +0800</pubDate>
             <enclosure 
-                url="https://github.com/Conor-711/For_Release/releases/download/v1.0.0/ShipIt_Installer.dmg"
-                sparkle:version="24"
-                sparkle:shortVersionString="1.0.0"
-                length="7309050"
+                url="https://github.com/Conor-711/For_Release/releases/download/v1.0.1/ShipIt_Installer.dmg"
+                sparkle:version="25"
+                sparkle:shortVersionString="1.0.1"
+                length="7312843"
                 type="application/octet-stream"
-                sparkle:edSignature="QG1bJkP3aEFzZUfo50qnzxgaJXvtmACXeUP9gzOwHzQ8NdhEithuHwqA9xQcQEF/sPtbnq+Lob1U55bEMCcaBg=="
+                sparkle:edSignature="W9vKCDAbpR2mYVaOLy4x0dMTBbl9loNMZWeNj58xQJoD2BUJ1UUDh7epLAgRhMqB3JGv++oggtFT6uPwTcgdBg=="
             />
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
         </item>
